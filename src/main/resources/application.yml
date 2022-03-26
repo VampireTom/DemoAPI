@@ -10,4 +10,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: https://desolate-coast-91481.herokuapp.com/
+      defaultZone: https://desolate-coast-91481.herokuapp.com/eureka/
