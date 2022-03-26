@@ -87,7 +87,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<resources>
+		<!-- <resources>
 			<resource>
 				<directory>src/main/resources</directory>
 				<filtering>true</filtering>
@@ -95,7 +95,7 @@
 					<exclude>**/application.yml</exclude>
 				</excludes>
 			</resource>
-		</resources>
+		</resources> -->
 	</build>
 
 </project>
